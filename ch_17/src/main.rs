@@ -64,7 +64,7 @@ fn slice() {
 }
 
 fn concatenate() {
-    // &str + &str -> can not
+    // &str + &str -> can not at the moment, may find the solution later
     // let hello = "hello";
     // let world = "world";
     // let hello_world = hello + world;
